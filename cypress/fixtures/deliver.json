@@ -1,0 +1,50 @@
+{
+    "signup": {
+        "name": "Weslley Costa",
+            "cpf": "00000014141",
+            "email": "wes@hotmail.com",
+            "whatsapp": "11951246548",
+            "address": {
+                "postalcode": "09051510",
+                "street": "Rua Santarém",
+                "number": "1000",
+                "details": "Casa 03",
+                "district": "Vila Floresta",
+                "city_state": "Santo André/SP"
+            },
+            "delivery_method": "Moto",
+            "cnh": "cnh-digital.jpg"
+    },
+    "cpf_inv": {
+        "name": "Bruna Soares",
+            "cpf": "x0000014141AA",
+            "email": "bruss@hotmail.com",
+            "whatsapp": "11951246548",
+            "address": {
+                "postalcode": "09051510",
+                "street": "Rua Santarém",
+                "number": "1000",
+                "details": "Casa 03",
+                "district": "Vila Floresta",
+                "city_state": "Santo André/SP"
+            },
+            "delivery_method": "Moto",
+            "cnh": "cnh-digital.jpg"
+    },
+    "email_inv": {
+        "name": "Weslley Costa",
+            "cpf": "00000014141",
+            "email": "wes.com.br",
+            "whatsapp": "11951246548",
+            "address": {
+                "postalcode": "09051510",
+                "street": "Rua Santarém",
+                "number": "1000",
+                "details": "Casa 03",
+                "district": "Vila Floresta",
+                "city_state": "Santo André/SP"
+            },
+            "delivery_method": "Van/Carro",
+            "cnh": "cnh-digital.jpg"
+    }
+}
